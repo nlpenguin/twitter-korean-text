@@ -246,6 +246,8 @@ Average per tweet: 0.54212 ms
 
 From [http://konlpy.org/ko/v0.4.2/morph/](http://konlpy.org/ko/v0.4.2/morph/)
 
+## Travis CI
+Travis CI 를 다시 적용하였습니다.
 
 ## Author(s)
 
