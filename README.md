@@ -1,6 +1,6 @@
 ## twitter-korean-text [![Coverage Status](https://coveralls.io/repos/twitter/twitter-korean-text/badge.png)](https://coveralls.io/r/twitter/twitter-korean-text)
 [//]: # (Travis has been deactivated: [![Build Status](https://secure.travis-ci.org/twitter/twitter-korean-text.png?branch=master)](http://travis-ci.org/twitter/twitter-korean-text))
-
+  
 트위터에서 만든 오픈소스 한국어 처리기
 
 Scala/Java library to process Korean text with a Java wrapper. twitter-korean-text currently provides Korean normalization and tokenization. Please join our community at [Google Forum](https://groups.google.com/forum/#!forum/twitter-korean-text). The intent of this text processor is not limited to short tweet texts.
@@ -245,6 +245,7 @@ Average per tweet: 0.54212 ms
 ![Benchmark test](http://konlpy.org/ko/v0.4.2/_images/time.png)
 
 From [http://konlpy.org/ko/v0.4.2/morph/](http://konlpy.org/ko/v0.4.2/morph/)
+
 
 ## Author(s)
 
